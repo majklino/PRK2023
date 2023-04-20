@@ -1,11 +1,11 @@
-line = basic | perm, {multiply, perm};
-basic = number, oper, number;
+syntax = basic | perm, {multiply, perm};
+basic = number, {oper, number};
 oper = add | multiply;
 perm = 'perm', cycle, {cycle}, power;
 space = ' ';
 cycle = '(', number, {space, number}, ')';
-add = '+';
 multiply = '*';
+add = '+';
 number = firstdigit, {digit};
 digit = ’0’ | ’1’ | ’2’ | ’3’ | ’4’ | ’5’ | ’6’ | ’7’ | ’8’ | ’9’;
 firstdigit = ’1’ | ’2’ | ’3’ | ’4’ | ’5’ | ’6’ | ’7’ | ’8’ | ’9’;
