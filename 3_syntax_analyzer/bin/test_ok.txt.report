@@ -1,0 +1,308 @@
+Entering the matrix
+number
+Syntax OK, basic expr
+number
+Syntax OK, basic expr
+number
+basic expr + number
+Syntax OK, basic expr
+number
+basic expr * number
+Syntax OK, basic expr
+number
+basic expr + number
+Syntax OK, basic expr
+number
+basic expr * number
+Syntax OK, basic expr
+number
+basic expr + number
+basic expr + number
+Syntax OK, basic expr
+number
+basic expr * number
+basic expr * number
+Syntax OK, basic expr
+number
+basic expr + number
+basic expr * number
+basic expr + number
+basic expr * number
+Syntax OK, basic expr
+number inside a cycle
+one cycle
+cycle
+perm
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+perm
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+one cycle
+cycle
+number inside a cycle
+one cycle
+cycles, cycle
+perm
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycles, cycle
+perm
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+one cycle
+cycle
+to the power of number
+perm powered
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+one cycle
+cycle
+to the power of negative number
+perm powered
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+inside a cycle
+one cycle
+cycles, cycle
+to the power of number
+perm powered
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+inside a cycle
+one cycle
+cycles, cycle
+to the power of negative number
+perm powered
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+inside a cycle
+one cycle
+cycles, cycle
+to the power of number
+perm powered
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycles, cycle
+to the power of negative number
+perm powered
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+one cycle
+cycle
+perm
+perm expr
+number inside a cycle
+inside a cycle
+one cycle
+cycle
+perm
+perm expr * perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+inside a cycle
+one cycle
+cycles, cycle
+number inside a cycle
+one cycle
+cycles, cycle
+perm
+perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+perm
+perm expr * perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+perm
+perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+inside a cycle
+one cycle
+cycles, cycle
+perm
+perm expr * perm expr
+number inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+inside a cycle
+one cycle
+cycles, cycle
+number inside a cycle
+one cycle
+cycles, cycle
+perm
+perm expr * perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+inside a cycle
+one cycle
+cycles, cycle
+to the power of number
+perm powered
+perm expr
+number inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+one cycle
+cycles, cycle
+number inside a cycle
+one cycle
+cycles, cycle
+number inside a cycle
+one cycle
+cycles, cycle
+to the power of number
+perm powered
+perm expr * perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+to the power of negative number
+perm powered
+perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+to the power of negative number
+perm powered
+perm expr * perm expr
+Syntax OK, perm expr
+number inside a cycle
+one cycle
+cycle
+number inside a cycle
+one cycle
+cycles, cycle
+number inside a cycle
+one cycle
+cycles, cycle
+number inside a cycle
+inside a cycle
+one cycle
+cycles, cycle
+to the power of number
+perm powered
+perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+number inside a cycle
+one cycle
+cycles, cycle
+to the power of negative number
+perm powered
+perm expr * perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+to the power of negative number
+perm powered
+perm expr * perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+to the power of number
+perm powered
+perm expr
+Syntax OK, perm expr
+number inside a cycle
+inside a cycle
+inside a cycle
+one cycle
+cycle
+to the power of negative number
+perm powered
+perm expr
+Syntax OK, perm expr

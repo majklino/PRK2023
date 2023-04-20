@@ -1,0 +1,46 @@
++10
+*89
+96+
+69*
+14*89+90+
+14+77*
+perm
+perm()
+perm(1 )
+perm(1 2 3 )
+perm( 1 2 3)
+perv(1 2 3)
+(1 2 3)
+perm(1 2 3
+perm(1 2 3 
+perm 1 2 3
+perm(1 2 3)(
+perm(1 2 3)()
+perm(1 2 3)^
+perm(1 2 3)^-
+perm(1 2 3)^0
+perm(1 2 3)^01
+perm(1 2 3)^-0
+perm(1 2 3)*
+perm(1 2 3)^*
+*
+^
+^1
+^-1
+*perm(1 2 3)
+^perm(1 2 3)
+perm(1 2 3)*perm
+perm(1 2 3)^*perm(1 2 3)
+perm(1 2 3)^2*perm(1 2 3)^
+perm (1 2 3)
+perm(1 2 3) * perm(1 2 3)
+perm(1 2 3) ^-5
+perm(1 2 3)*perm()
+perm(1 2  3)
+perm1 2 3)
+perm(
+perm( 
+perm)
+perm( )
+perm(0 1 2)
+perm(1 2 03)
