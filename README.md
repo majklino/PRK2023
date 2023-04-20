@@ -1,7 +1,7 @@
 # PRK2023
 Jazyk pro počítání permutací
 
-Co to umí:
+Co to umí:  
 sčítání: 10+15 --> 25  
 násobení 10*15 --> 150  
 definování permutace: perm(1 3 4 2) --> (1 3 4 2)  
