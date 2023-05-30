@@ -1,0 +1,37 @@
+Entering the matrix
+Syntax OK, basic expr
+vysledek: 10
+
+Syntax OK, basic expr
+vysledek: 25
+
+Syntax OK, basic expr
+vysledek: 150
+
+Syntax OK, basic expr
+vysledek: 30
+
+Syntax OK, basic expr
+vysledek: 1000
+
+Syntax OK, perm expr
+(1)(4 3 2)(5)
+
+Syntax OK, perm expr
+(4 1)(6 2)(5 8 3)(7)
+
+Syntax OK, perm expr
+(3 4 5 6 7 8 9 1)(2)
+
+Syntax OK, perm expr
+(2 3 4 5 6 7 8 9 1)
+
+Syntax OK, perm expr
+(2 1)(5 4 3)
+
+Syntax OK, perm expr
+(2 1)(5 4 3)
+
+Syntax OK, perm expr
+(2 1)(5 4 3)
+
